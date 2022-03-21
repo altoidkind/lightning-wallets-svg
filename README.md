@@ -3,7 +3,7 @@ Free SVGs of popular Bitcoin Lightning Network wallets/nodes.
 
 All SVGs are optimized by running through SVGOMG (https://jakearchibald.github.io/svgomg/).
 
-The list of wallets in the list:
+# The list of wallets in the list:
 1. Alby
 2. Joule (R.I.P)
 3. Zap
