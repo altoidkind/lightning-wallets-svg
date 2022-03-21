@@ -12,17 +12,17 @@ The list of wallets in the list:
 7. Breez
 8. BlueWallet
 9. BLW: Bitcoin Lightning Wallet
-10. Simple Bitcoin Wallet
-11. Zeus
-12. ZEBEDEE
-13. LNBits
-14. lntxbot
-15. Muun
-16. Phoenix
-17. Wallet of Satoshi
-18. ThunderBolt
-19. SparkWallet: Bitcoin Lightning
-20. Pouch Lightning Wallet
+ 10. Simple Bitcoin Wallet
+ 11. Zeus
+ 12. ZEBEDEE
+ 13. LNBits
+ 14. lntxbot
+ 15. Muun
+ 16. Phoenix
+ 17. Wallet of Satoshi
+ 18. ThunderBolt
+ 19. SparkWallet: Bitcoin Lightning
+ 20. Pouch Lightning Wallet
 
 The list of wallets in the list:
 1. BTCPay
