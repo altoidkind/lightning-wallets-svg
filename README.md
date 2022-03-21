@@ -1,5 +1,6 @@
 # lightning-wallets-svg
-Free SVGs of popular Bitcoin Lightning Network wallets/nodes
+Free SVGs of popular Bitcoin Lightning Network wallets/nodes.
+
 All SVGs are optimized by running through SVGOMG (https://jakearchibald.github.io/svgomg/).
 
 The list of wallets in the list:
