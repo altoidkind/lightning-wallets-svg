@@ -8,7 +8,7 @@ All SVGs are optimized by running through SVGOMG (https://jakearchibald.github.i
 2. Joule (R.I.P)
 3. Zap
 4. Zeus
-5. Simple Bitcoin Wallet
+5. SBW: Simple Bitcoin Wallet
 6. Phoenix
 7. Breez
 8. BLW
