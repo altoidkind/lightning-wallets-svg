@@ -5,7 +5,7 @@ All SVGs are optimized by running through SVGOMG (https://jakearchibald.github.i
 
 **The list of wallets in the list:**
 1. Alby
-2. Joule (R.I.P)
+2. Joule
 3. Zap
 4. Zeus
 5. SBW: Simple Bitcoin Wallet
